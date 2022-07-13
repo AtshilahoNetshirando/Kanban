@@ -28,4 +28,4 @@ The backend uses a number of open source projects to work properly:
 Put your api keys in `social.properties`, and configure your database in `application.yml`.
 
 Import the project in IntelliJ, or compile using maven and run the app.
-You will need the [frontend](https://github.com/sAleksovski/scrum-board-frontend).
+You will need the [frontend](https://github.com/AtshilahoNetshirando/Kanban-Frontend).
